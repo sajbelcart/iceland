@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Bardarbunga", "Latitude": 64.630000, "Longitude": -17.530000, "Elev": 2000, "Type": "Stratovolcano", "Status": "Historical", "Region": "Iceland-NE" }, "geometry": { "type": "Point", "coordinates": [ -17.53, 64.63 ] } },
+{ "type": "Feature", "properties": { "name": "Esjufjoll", "Latitude": 64.270000, "Longitude": -16.650000, "Elev": 1760, "Type": "Stratovolcano", "Status": "Historical", "Region": "Iceland-SE" }, "geometry": { "type": "Point", "coordinates": [ -16.65, 64.27 ] } },
+{ "type": "Feature", "properties": { "name": "Eyjafjallajokull", "Latitude": 63.630000, "Longitude": -19.620000, "Elev": 1666, "Type": "Stratovolcano", "Status": "Historical", "Region": "Iceland-S" }, "geometry": { "type": "Point", "coordinates": [ -19.62, 63.63 ] } },
+{ "type": "Feature", "properties": { "name": "Grimsvotn", "Latitude": 64.420000, "Longitude": -17.330000, "Elev": 1725, "Type": "Caldera", "Status": "Historical", "Region": "Iceland-NE" }, "geometry": { "type": "Point", "coordinates": [ -17.33, 64.42 ] } },
+{ "type": "Feature", "properties": { "name": "Hofsjokull", "Latitude": 64.780000, "Longitude": -18.920000, "Elev": 1782, "Type": "Subglacial volcano", "Status": "Holocene", "Region": "Iceland-SW" }, "geometry": { "type": "Point", "coordinates": [ -18.92, 64.78 ] } },
+{ "type": "Feature", "properties": { "name": "Katla", "Latitude": 63.630000, "Longitude": -19.050000, "Elev": 1512, "Type": "Subglacial volcano", "Status": "Historical", "Region": "Iceland-S" }, "geometry": { "type": "Point", "coordinates": [ -19.05, 63.63 ] } },
+{ "type": "Feature", "properties": { "name": "Kverkfjoll", "Latitude": 64.650000, "Longitude": -16.720000, "Elev": 1920, "Type": "Stratovolcano", "Status": "Historical", "Region": "Iceland-NE" }, "geometry": { "type": "Point", "coordinates": [ -16.72, 64.65 ] } },
+{ "type": "Feature", "properties": { "name": "Langjokull", "Latitude": 64.750000, "Longitude": -19.980000, "Elev": 1360, "Type": "Stratovolcano", "Status": "Radiocarbon", "Region": "Iceland-SW" }, "geometry": { "type": "Point", "coordinates": [ -19.98, 64.75 ] } },
+{ "type": "Feature", "properties": { "name": "Oraefajokull", "Latitude": 64.000000, "Longitude": -16.650000, "Elev": 2119, "Type": "Stratovolcano", "Status": "Historical", "Region": "Iceland-SE" }, "geometry": { "type": "Point", "coordinates": [ -16.65, 64.0 ] } },
+{ "type": "Feature", "properties": { "name": "Prestahnukur", "Latitude": 64.600000, "Longitude": -20.580000, "Elev": 1390, "Type": "Subglacial volcano", "Status": "Radiocarbon", "Region": "Iceland-SW" }, "geometry": { "type": "Point", "coordinates": [ -20.58, 64.6 ] } },
+{ "type": "Feature", "properties": { "name": "Snaefellsjokull", "Latitude": 64.800000, "Longitude": -23.780000, "Elev": 1448, "Type": "Stratovolcano", "Status": "Radiocarbon", "Region": "Iceland-W" }, "geometry": { "type": "Point", "coordinates": [ -23.78, 64.8 ] } },
+{ "type": "Feature", "properties": { "name": "Tungnafellsjokull", "Latitude": 64.730000, "Longitude": -17.920000, "Elev": 1535, "Type": "Stratovolcano", "Status": "Holocene", "Region": "Iceland-NE" }, "geometry": { "type": "Point", "coordinates": [ -17.92, 64.73 ] } }
+]
+}

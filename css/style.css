@@ -1,0 +1,57 @@
+/* Stylesheet by Josie Sajbel, 2018 */
+body {background-color: #000000;
+	color: white;
+}
+
+#intro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding:50px;
+}
+
+@font-face {
+    font-family: titleFont;
+    src: url(BebasBook.otf) format("opentype");
+}
+@font-face {
+    font-family: textFont;
+    src: url(DIN-Regular.otf) format("opentype");
+}
+
+h1{
+	font-family: titleFont;
+	font-size: 35px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	letter-spacing: 2px;
+}
+#credits{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+h2{
+  font-family: titleFont;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top: 10px;
+  letter-spacing: 2px;
+  color:#e41c44;
+}
+
+p{
+  font-family: textFont;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color:#7b7b7b;
+}
+
+b{
+  font-family: textFont;
+  font-size: 20px;
+  color:#55b6cb;
+}
